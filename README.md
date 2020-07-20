@@ -1,4 +1,4 @@
-#know-your-government
+# know-your-government
 Android app that acquires and displays an interactive list of political officials that represent
 the current location (or a specified location) at each level of government (federal to local). Google Civic Information
 API (https://developers.google.com/civic-information) is used to acquire the government official data (via REST service and JSON results).
